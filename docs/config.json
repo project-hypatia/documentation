@@ -1,0 +1,27 @@
+{
+    "title": "Hypatia Project",
+    "author": "Cogito Ergo Dev",
+    "html": {
+        "breadcrumbs": true,
+        "breadcrumb_separator" : " > ",
+        "search": false,
+        "repo": "project-hypatia/documentation",
+        "toggle_code": false
+    },
+    "language": "en",
+    "languages": {
+        "en": "English", 
+        "fr": "Français"
+    },
+    "strings": {
+        "fr": {
+            "CodeBlocks_show": "Afficher le code",
+            "Search_placeholder": "Rechercher...",
+            "Link_previous": "Précédent",
+            "Link_next": "Suivant",
+            "Edit_on": "Editer sur :name:",
+            "View_on_github": "Voir sur GitHub",
+            "View_documentation": "Voir la Documentation"
+        }
+    }
+}
