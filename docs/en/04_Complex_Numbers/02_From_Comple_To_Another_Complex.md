@@ -8,7 +8,7 @@ date: 2021-03-31
 
 See now how to transform Complex Number to another Complex Number using some complex features.
 
-## Conjugate
+# Conjugate
 
  - `Hypatia\Number\Complex\Cartesian\Binary\compute_conjugate(float $r, float $i): array`
  - `Hypatia\Number\Complex\Polar\Binary\compute_conjugate(float $rho, float $phi): array`
@@ -36,7 +36,7 @@ $pconj(-pi()); // TODO
 Unary\conjugate(new Cartesian(1, 2)); // Cartesian(1.0, -2.0)
 ```
 
-## Modulus
+# Modulus
 
 This is only available for Cartesian form. Useless in Polar form as it is in definition.
 
@@ -53,7 +53,7 @@ $mod(4.0); // 5.0
 $mod(-4.0); // 5.0
 ```
 
-## Argument
+# Argument
 
 Again, this is only available for Cartesian form. Useless in Polar form as it is in definition.
 
